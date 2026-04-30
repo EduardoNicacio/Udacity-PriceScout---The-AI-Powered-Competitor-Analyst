@@ -19,6 +19,8 @@ Public classes:
 Running this file directly (`python chat.py`) starts an interactive loop that
 automatically discovers all configured MCP servers, registers their tools,
 and exposes them to the user.
+
+Author: Eduardo Nicacio (eduardo.nicacio @ accenture.com)
 """
 
 import os
